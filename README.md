@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <h3 align="center">I am a pasionate problem solver</h3>
 
 
-- 🔭 I’m currently working on **SPRING CRUD**
+- 🔭 I’m currently working on **Storybooks**
 
-- 🌱 I’m currently learning **SPRING BOOT, REACT , JS**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **SPRING BOOT**
+- 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with **BACKEND WITH JAVA**
+- 🤝 I’m looking for help with ** JAVA**
 
 - 💬 Ask me about **C++, JAVA**
 
