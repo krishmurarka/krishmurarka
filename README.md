@@ -1,11 +1,13 @@
-# Krish Murarka
+<!-- Profile artwork and motion assets live in assets/. -->
 
-I’m an SDE 2 at Atlassian, where I work on full-stack generative AI.
+![Krish Murarka, SDE 2 at Atlassian and full-stack GenAI engineer](./assets/hero.svg?v=1)
 
-I’m interested in how teams build AI features they can trust, from retrieval and citations to evaluation in CI. I enjoy working across the stack, connecting the user experience to the services and tests behind it.
+![Full-stack AI, permission-aware retrieval, and LLM evaluation](./assets/about-life.svg?v=1)
 
-### Engineering interests
+![TypeScript, JavaScript, Python, and Java](./assets/stack.svg?v=1)
 
-- **Full-stack AI applications** that show users the sources behind an answer.
-- **Retrieval and access control** that keep search results within the user’s permissions.
-- **LLM evaluation** that catches regressions before a change ships.
+![Krish Murarka, Kolkata, India](./assets/id-dashboard.svg?v=1)
+
+![Find Krish on GitHub and X](./assets/connect.svg?v=1)
+
+[GitHub](https://github.com/krishmurarka) · [X](https://twitter.com/MurarkaKrish)
