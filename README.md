@@ -6,10 +6,8 @@
 
 ![LLMs, vector databases, retrieval-augmented generation, Jira, JQL, Rovo Studio, React, Java, and C++](./assets/stack.svg?v=3)
 
-![I studied at Kalinga Institute of Industrial Technology (KIIT), where I founded and led the campus GeeksforGeeks club. I also competed at the ICPC Amritapuri and Kanpur regionals.](./assets/beyond-work.svg?v=3)
+![ICPC Amritapuri and Kanpur regionalist. LeetCode contest rating 2,180 (Guardian). Codeforces contest rating 1,579, peak 1,715 (Expert). Ratings checked 6 Nov 2026.](./assets/beyond-work.svg?v=4)
 
 ![Krish Murarka, Kolkata, India](./assets/id-dashboard.svg?v=2)
 
-![Find me online](./assets/connect.svg?v=3)
-
-<a href="https://www.linkedin.com/in/krish-murarka/"><img src="assets/link-linkedin.svg?v=3" width="172" alt="LinkedIn profile"></a> <a href="https://leetcode.com/u/Krish_123/"><img src="assets/link-leetcode.svg?v=3" width="172" alt="LeetCode profile"></a> <a href="https://github.com/krishmurarka"><img src="assets/link-github.svg?v=3" width="172" alt="GitHub profile"></a> <a href="https://twitter.com/MurarkaKrish"><img src="assets/link-x.svg?v=3" width="172" alt="X profile"></a>
+<table><tr><td><img src="assets/connect.svg?v=4" width="350" alt="Find me online"></td><td><a href="https://www.linkedin.com/in/krish-murarka/"><img src="assets/link-linkedin.svg?v=4" width="350" alt="LinkedIn profile"></a><br><a href="https://leetcode.com/u/Krish_123/"><img src="assets/link-leetcode.svg?v=4" width="350" alt="LeetCode profile"></a><br><a href="https://github.com/krishmurarka"><img src="assets/link-github.svg?v=4" width="350" alt="GitHub profile"></a><br><a href="https://twitter.com/MurarkaKrish"><img src="assets/link-x.svg?v=4" width="350" alt="X profile"></a></td></tr></table>
